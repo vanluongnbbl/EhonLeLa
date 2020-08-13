@@ -10,8 +10,8 @@
     <meta name="description" content="Sách Ehon Lê La">
     <script id='script_viewport'
         type='text/javascript'>window.ladi_viewport = function () { var width = window.outerWidth > 0 ? window.outerWidth : window.screen.width; var widthDevice = width; var is_desktop = width >= 768; var content = ""; if (typeof window.ladi_is_desktop == "undefined" || window.ladi_is_desktop == undefined) { window.ladi_is_desktop = is_desktop; } if (!is_desktop) { widthDevice = 420; } else { widthDevice = 960; } content = "width=" + widthDevice + ", user-scalable=no"; var scale = 1; if (!is_desktop && widthDevice != window.screen.width && window.screen.width > 0) { scale = window.screen.width / widthDevice; } if (scale != 1) { content += ", initial-scale=" + scale + ", minimum-scale=" + scale + ", maximum-scale=" + scale; } var docViewport = document.getElementById("viewport"); if (!docViewport) { docViewport = document.createElement("meta"); docViewport.setAttribute("id", "viewport"); docViewport.setAttribute("name", "viewport"); document.head.appendChild(docViewport); } docViewport.setAttribute("content", content); }; window.ladi_viewport();</script>
-    <link rel="canonical" href="http://ehonnhatban.wabooks.vn" />
-    <meta property="og:url" content="http://ehonnhatban.wabooks.vn" />
+    <link rel="canonical" href="https://ehon-lela.herokuapp.com/" />
+    <meta property="og:url" content="https://ehon-lela.herokuapp.com/" />
     <meta property="og:title" content="Sách Ehon Lê La" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="Sách Ehon Lê La" />
