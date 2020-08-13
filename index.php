@@ -7,14 +7,14 @@
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="keywords" content="">
-    <meta name="description" content="Landing CTV tư vấn khách hàng">
+    <meta name="description" content="Sách Ehon Lê La">
     <script id='script_viewport'
         type='text/javascript'>window.ladi_viewport = function () { var width = window.outerWidth > 0 ? window.outerWidth : window.screen.width; var widthDevice = width; var is_desktop = width >= 768; var content = ""; if (typeof window.ladi_is_desktop == "undefined" || window.ladi_is_desktop == undefined) { window.ladi_is_desktop = is_desktop; } if (!is_desktop) { widthDevice = 420; } else { widthDevice = 960; } content = "width=" + widthDevice + ", user-scalable=no"; var scale = 1; if (!is_desktop && widthDevice != window.screen.width && window.screen.width > 0) { scale = window.screen.width / widthDevice; } if (scale != 1) { content += ", initial-scale=" + scale + ", minimum-scale=" + scale + ", maximum-scale=" + scale; } var docViewport = document.getElementById("viewport"); if (!docViewport) { docViewport = document.createElement("meta"); docViewport.setAttribute("id", "viewport"); docViewport.setAttribute("name", "viewport"); document.head.appendChild(docViewport); } docViewport.setAttribute("content", content); }; window.ladi_viewport();</script>
     <link rel="canonical" href="http://ehonnhatban.wabooks.vn" />
     <meta property="og:url" content="http://ehonnhatban.wabooks.vn" />
-    <meta property="og:title" content="Landing CTV tư vấn khách hàng" />
+    <meta property="og:title" content="Sách Ehon Lê La" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Landing CTV tư vấn khách hàng" />
+    <meta property="og:description" content="Sách Ehon Lê La" />
     <meta name="format-detection" content="telephone=no" />
     <link rel="shortcut icon" type="image/png"
         href="https://static.ladipage.net/5acc72dcd96f54ff291e93bf/logo-1556242530.png" />
@@ -4434,7 +4434,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-1-20200205042710-copy-20200227033541.png");
+                background-image: url(./images/cb1/comboA1.png);
             }
 
             #CAROUSEL311 {
@@ -4456,7 +4456,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-2-20200205042710-copy-20200227033537.png");
+                background-image: url(./images/cb1/comboB1.png);
             }
 
             #IMAGE313 {
@@ -4471,7 +4471,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-3-20200205050026-20200227033536.png");
+                background-image: url(./images/cb1/comboC1.png);
             }
 
             #HEADLINE319 {
@@ -4500,7 +4500,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-1-20200207081712-copy-20200227044411.png");
+                background-image: url(./images/cb2/comboa2.png);
             }
 
             #IMAGE326 {
@@ -4515,7 +4515,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-2-20200207081711-copy-20200227044409.png");
+                background-image: url(./images/cb2/combob2.png);
             }
 
             #IMAGE327 {
@@ -4545,7 +4545,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-3-20200207081712-20200227044410.png");
+                background-image: url(./images/cb2/comboc2.png);
             }
 
             #CAROUSEL324 {
@@ -4720,7 +4720,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-4-20200205050026-copy-20200227033536.png");
+                background-image: url(./images/cb1/comboD1.png);
             }
 
             #IMAGE559 {
@@ -4735,7 +4735,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-4-20200207081713-copy-20200227044411.png");
+                background-image: url(./images/cb2/combod2.png);
             }
 
             #IMAGE560 {
@@ -5057,7 +5057,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-ld-hong-20200310093401.png");
+                background-image: url(./images/ComboFull.png);
             }
 
             #IMAGE814 {
@@ -5072,7 +5072,7 @@
                 height: 568.308px;
                 top: 0px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s700x900/5acc72dcd96f54ff291e93bf/combo-ld-cam-20200310093357.png");
+                background-image: url(./images/ComboFull.png);
             }
 
             #IMAGE815 {
